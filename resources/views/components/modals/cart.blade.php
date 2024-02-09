@@ -1,4 +1,4 @@
-<div id="cart-modal" class="ring-[1px] ring-teal-400 overflow-y-auto bg-gray-50 rounded-tl-3xl rounded-tr-3xl shadow-lg fixed bottom-0 left-0 h-[700px] w-full transform translate-y-[701px] flex flex-col justify-between align-middle">
+<div id="cart-modal" class="ring-[1px] ring-teal-400 overflow-y-auto bg-gray-50 rounded-tl-3xl rounded-tr-3xl shadow-lg fixed bottom-0 left-0 h-[550px] w-full transform translate-y-[551px] flex flex-col justify-between align-middle">
     <!-- Header -->
     <div class="w-full text-right p-4">
         <button type="button" id="hide-cart">

@@ -8,7 +8,7 @@
 }
 
 @keyframes slide-up {
-    from { transform: translateY(701px); }
+    from { transform: translateY(551px); }
     to { transform: translateY(0); }
 }
 
@@ -19,5 +19,5 @@
 
 @keyframes slide-down {
     from { transform: translateY(0); }
-    to { transform: translateY(701px); }
+    to { transform: translateY(551px); }
 }

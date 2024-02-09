@@ -6,7 +6,7 @@
         <div class="section flex flex-row justify-between md:justify-evenly">
             <div class="flex flex-col gap-2 md:gap-4">
                 <div class="flex-1">
-                    <img src="{{ asset('storage/categories/category-1.jpg') }}" class="shadow-lg object-center object-cover w-20 h-20 md:w-32 md:h-32 rounded-full ring-2 ring-teal-400" alt="">
+                    <img src="{{ asset('storage/categories/category-1.jpg') }}" class="shadow-lg object-center object-cover w-16 h-16 md:w-32 md:h-32 rounded-full ring-2 ring-teal-400" alt="">
                 </div>
                 <div class="col-span-2 flex-shrink-0 text-center text-teal-400">
                     <h3 class="text-sm md:text-xl font-semibold">Steak</h3>
@@ -14,7 +14,7 @@
             </div>
             <div class="flex flex-col gap-2 md:gap-4">
                 <div class="flex-1">
-                    <img src="{{ asset('storage/categories/category-2.jpg') }}" class="shadow-lg object-center object-cover w-20 h-20 md:w-32 md:h-32 rounded-full" alt="">
+                    <img src="{{ asset('storage/categories/category-2.jpg') }}" class="shadow-lg object-center object-cover w-16 h-16 md:w-32 md:h-32 rounded-full" alt="">
                 </div>
                 <div class="col-span-2 flex-shrink-0 text-center">
                     <h3 class="text-sm md:text-xl font-semibold">Sandwich</h3>
@@ -22,7 +22,7 @@
             </div>
             <div class="flex flex-col gap-2 md:gap-4">
                 <div class="flex-1">
-                    <img src="{{ asset('storage/categories/category-3.jpg') }}" class="shadow-lg object-center object-cover w-20 h-20 md:w-32 md:h-32 rounded-full" alt="">
+                    <img src="{{ asset('storage/categories/category-3.jpg') }}" class="shadow-lg object-center object-cover w-16 h-16 md:w-32 md:h-32 rounded-full" alt="">
                 </div>
                 <div class="col-span-2 flex-shrink-0 text-center">
                     <h3 class="text-sm md:text-xl font-semibold">Pasta</h3>
@@ -30,7 +30,7 @@
             </div>
             <div class="flex flex-col gap-2 md:gap-4">
                 <div class="flex-1">
-                    <img src="{{ asset('storage/matador-logo.png') }}" class="shadow-lg object-center object-cover w-20 h-20 md:w-32 md:h-32 rounded-full ring-1 ring-teal-400" alt="">
+                    <img src="{{ asset('storage/matador-logo.png') }}" class="shadow-lg object-center object-cover w-16 h-16 md:w-32 md:h-32 rounded-full ring-1 ring-teal-400" alt="">
                 </div>
                 <div class="col-span-2 flex-shrink-0 text-center">
                     <h3 class="text-sm md:text-xl font-semibold">Special</h3>
